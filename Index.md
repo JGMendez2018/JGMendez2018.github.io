@@ -7,6 +7,3 @@ This Is My 360 Image
 ***
 
 
-
-### Camera Effects
-![Night](Night 2.jpg?raw=true "Night")
